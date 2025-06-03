@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me:
+Greetings! 
+My name is Mauricio Mariscal Velazquez, I'm a third-year mathematics major at Bakersfield College (Bakersfield, CA). My research interests revolve around big data analytics, statistical forecasting, Bayesian statistics, data science, and much more.
+
 
 <!--
 **mmariscal063/mmariscal063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
